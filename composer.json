@@ -1,0 +1,19 @@
+{
+    "name": "ariegeorgee/instagram",
+    "description": "Laravel 5 Trial Zavelop Package",
+    "license": "MIT",
+    "keywords" : ["laravel" , "instagram","trial","zavelop","bogor"],
+    "authors": [
+        {
+            "name": "Ari Ardiansyah",
+            "email": "ariardiansyah470@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ari\\HitUrl\\": "packages/src/HitUrl"
+        }
+    }
+}
